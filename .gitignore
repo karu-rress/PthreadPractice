@@ -1,0 +1,12 @@
+.vscode/
+
+Part1/basic
+
+Part2/1-race
+Part2/1-race.S
+Part2/2-atomic
+Part2/2-atomic.S
+Part2/3-mutex
+Part2/3-mutex.S
+
+*.exe
