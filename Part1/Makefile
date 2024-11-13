@@ -8,4 +8,4 @@ basic: basic.c
 	$(CC) $(CFLAGS) basic.c -o basic
 
 clean:
-	rm basic
+	rm basic a.out
