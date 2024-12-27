@@ -2,7 +2,7 @@
  * 
  * @file: Part2/3-mutex.c
  * 
- * @brief: Race condition example
+ * @brief: Mutex example
  * 
  * COMPILE TO ASSEMBLY FIRST
  * gcc 3-mutex.c -S -o 3-mutex.S
