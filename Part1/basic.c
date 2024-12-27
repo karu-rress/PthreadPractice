@@ -1,6 +1,6 @@
 /**
  * 
- * @file: basic.c
+ * @file: Part1/basic.c
  * 
  * @brief: Basic example of creating threads in C
  * 

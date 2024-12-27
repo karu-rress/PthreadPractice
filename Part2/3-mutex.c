@@ -1,14 +1,14 @@
 /**
  * 
- * @file: 2-3-mutex.c
+ * @file: Part2/3-mutex.c
  * 
  * @brief: Race condition example
  * 
  * COMPILE TO ASSEMBLY FIRST
- * gcc 2-2-mutex.c -S -o 2-2-mutex.S
+ * gcc 3-mutex.c -S -o 3-mutex.S
  * 
- * Compile: gcc 2-2-mutex.c -o race
- * Run: ./2-2-mutex
+ * Compile: gcc 3-mutex.c -o race
+ * Run: ./3-mutex
  * 
  * @author: karu-rress
  * 

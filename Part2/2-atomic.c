@@ -1,14 +1,14 @@
 /**
  * 
- * @file: 2-2-atomic.c
+ * @file: Part2/2-atomic.c
  * 
  * @brief: Race condition example
  * 
  * COMPILE TO ASSEMBLY FIRST
- * gcc 2-2-atomic.c -S -o 2-2-atomic.S
+ * gcc 2-atomic.c -S -o 2-atomic.S
  * 
- * Compile: gcc 2-2-atomic.c -o race
- * Run: ./2-2-atomic
+ * Compile: gcc 2-atomic.c -o race
+ * Run: ./2-atomic
  * 
  * @author: karu-rress
  * 

@@ -1,14 +1,14 @@
 /**
  * 
- * @file: 2-1-race.c
+ * @file: Part2/1-race.c
  * 
  * @brief: Race condition example
  * 
  * COMPILE TO ASSEMBLY FIRST
- * gcc 2-1-race.c -S -o 2-1-race.S
+ * gcc 1-race.c -S -o 1-race.S
  * 
- * Compile: gcc 2-1-race.c -o race
- * Run: ./2-1-race
+ * Compile: gcc 1-race.c -o race
+ * Run: ./1-race
  * 
  * @author: karu-rress
  * 
