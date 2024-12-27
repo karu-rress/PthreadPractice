@@ -26,7 +26,7 @@ int counter = 0;
 pthread_mutex_t mutex;
 
 // No input, no output
-void *add(void * _) {
+void *add(void *) {
     for (int i = 0; i < 1000000; i++) {
         // Critical section
         pthread_mutex_lock(&mutex); // Lock the mutex

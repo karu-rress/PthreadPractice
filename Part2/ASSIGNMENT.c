@@ -15,7 +15,7 @@
 volatile int counter1 = 0;
 volatile int counter2 = 0;
 
-void *add1(void * _) {
+void *add1(void *) {
     for (int i = 0; i < 10000000; i++) {
         counter1 += 1;
     }
@@ -23,7 +23,7 @@ void *add1(void * _) {
     return NULL;
 }
 
-void *add2(void * _) {
+void *add2(void *) {
     for (int i = 0; i < 10000000; i++) {
         counter2 += 1;
     }

@@ -23,7 +23,7 @@
 int counter = 0;
 
 // No input, no output
-void *add(void * _) {
+void *add(void *) {
     for (int i = 0; i < 1000000; i++) {
         // Critical section
         // The addition operation is not atomic

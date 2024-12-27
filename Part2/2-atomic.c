@@ -22,7 +22,7 @@
 _Atomic int counter = 0;
 
 // No input, no output
-void *add(void * _) {
+void *add(void *) {
     for (int i = 0; i < 1000000; i++) {
         // Critical section
         // This is an atomic operation!
