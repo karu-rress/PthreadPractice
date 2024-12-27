@@ -2,7 +2,7 @@
  * 
  * @file: Part2/2-atomic.c
  * 
- * @brief: Race condition example
+ * @brief: Atomic operation using C11 _Atomic
  * 
  * COMPILE TO ASSEMBLY FIRST
  * gcc 2-atomic.c -S -o 2-atomic.S
