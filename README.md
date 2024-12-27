@@ -1,5 +1,5 @@
 # PthreadPractice
-Basic code with POSIX thread library.
+Example codes with POSIX thread library.
 
 ## Part 1 - Basics of Pthread
 - [basic.c](/Part1/basic.c) : Basic example of creating threads in C
