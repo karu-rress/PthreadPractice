@@ -16,4 +16,5 @@ Example codes with POSIX thread library.
 - [2-condition.c](/Part3/2-condition.c) : Implementing producer-consumer with condition variable
 - ~~3-semaphore.c~~ : (Under construction)
 - [4-dining-philosophers.c](/Part3/4-dining-philosophers.c) : Implementing dining philosophers problem
+- [5-sequential.c](/Part3/5-sequential.c) : Sequential execution with zero semaphores
 - ~~ASSIGNMENT~~ : (Under construction)
